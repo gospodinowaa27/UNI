@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\calculatorTrue\calculatorTrue\bin\Debug\netcoreapp3.1\calculatorTrue.exe
+C:\Users\User\source\repos\calculatorTrue\calculatorTrue\bin\Debug\netcoreapp3.1\calculatorTrue.deps.json
+C:\Users\User\source\repos\calculatorTrue\calculatorTrue\bin\Debug\netcoreapp3.1\calculatorTrue.runtimeconfig.json
+C:\Users\User\source\repos\calculatorTrue\calculatorTrue\bin\Debug\netcoreapp3.1\calculatorTrue.runtimeconfig.dev.json
+C:\Users\User\source\repos\calculatorTrue\calculatorTrue\bin\Debug\netcoreapp3.1\calculatorTrue.dll
+C:\Users\User\source\repos\calculatorTrue\calculatorTrue\bin\Debug\netcoreapp3.1\calculatorTrue.pdb
+C:\Users\User\source\repos\calculatorTrue\calculatorTrue\obj\Debug\netcoreapp3.1\calculatorTrue.csprojAssemblyReference.cache
+C:\Users\User\source\repos\calculatorTrue\calculatorTrue\obj\Debug\netcoreapp3.1\calculatorTrue.Form1.resources
+C:\Users\User\source\repos\calculatorTrue\calculatorTrue\obj\Debug\netcoreapp3.1\calculatorTrue.csproj.GenerateResource.cache
+C:\Users\User\source\repos\calculatorTrue\calculatorTrue\obj\Debug\netcoreapp3.1\calculatorTrue.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\calculatorTrue\calculatorTrue\obj\Debug\netcoreapp3.1\calculatorTrue.AssemblyInfo.cs
+C:\Users\User\source\repos\calculatorTrue\calculatorTrue\obj\Debug\netcoreapp3.1\calculatorTrue.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\calculatorTrue\calculatorTrue\obj\Debug\netcoreapp3.1\calculatorTrue.dll
+C:\Users\User\source\repos\calculatorTrue\calculatorTrue\obj\Debug\netcoreapp3.1\calculatorTrue.pdb
+C:\Users\User\source\repos\calculatorTrue\calculatorTrue\obj\Debug\netcoreapp3.1\calculatorTrue.genruntimeconfig.cache
